@@ -373,6 +373,9 @@ body{
       grid-column-gap: 20px;
       grid-row-gap:50px;
     }
+    .youtube-body{
+      padding-bottom: 20px;
+    }
     .right-section{
       display: none;
     }
@@ -391,9 +394,16 @@ body{
   .icon{
     background-position: 90% 8px;
   }
+  .identifier-2{
+    padding-bottom: 7px;
+  }
   }
   @media (min-width:321px) and (max-width : 375px)
   {
+   
+    .voice-search{
+      display: none;
+    }
     .sidebar-container{
       display: none;
     }
@@ -415,14 +425,24 @@ body{
     .middle-section{
       padding-left: 5px;
     }
+    .left-section{
+      width:160px;
+    }
     .video-thumbnail img{
       width:320px;
+    }
+
+    .youtube-body{
+      padding-bottom: 20px;
     }
     .tooltip-icon{
       padding-top: 5px;
     }
     .icon{
       background-position: 90% 8px;
+    }
+    .identifier-2{
+      padding-bottom: 7px;
     }
   }
     @media (min-width: 376px) and (max-width : 425px)
@@ -460,6 +480,9 @@ body{
     .icon{
       background-position: 90% 8px;
     }
+    .identifier-2{
+      padding-bottom: 7px;
+    }
   }
   @media (min-width: 426px) and (max-width : 768px){
     .sidebar-container{
@@ -467,6 +490,9 @@ body{
     }
     .categories{
       margin-left: -15%;
+    }
+    .youtube-body{
+      padding-bottom: 20px;
     }
     .youtube-body{
       position: relative;

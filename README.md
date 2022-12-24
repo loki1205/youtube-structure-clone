@@ -4,6 +4,8 @@
 
 - This is only structural clone, it is not dynamic because no JS is used in this project.
 
+- Video Link for those who need a walkthrough - https://youtu.be/NUBf35VgF4k
+
 # Screenshots
 
 ![](https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gNj-d1dkG4c6IfGgtwis9u5ffRW2xC_jlSbdmD6JbGyD7FAK4uony1yA6041mI70i_odVkV3phLh65AefoHUz_EiGAaVA=w1960-h3486)

@@ -272,7 +272,7 @@ body{
     color:white;
     padding: 7px 15px 7px 15px;
     margin-top: 5px;
-    margin-bottom: 17px;
+    margin-bottom: 19px;
     font-size: 13px;
     align-items: center;
     border-radius: 5px;
@@ -416,6 +416,7 @@ body{
   }
   .identifier-2{
     padding-bottom: 7px;
+    margin-bottom: 35px;
   }
   .timestamp{
     right: 18px
@@ -458,10 +459,6 @@ body{
     .video-thumbnail img{
       width:320px;
     }
-
-    .youtube-body{
-      padding-bottom: 20px;
-    }
     .tooltip-icon{
       padding-top: 5px;
     }
@@ -470,6 +467,7 @@ body{
     }
     .identifier-2{
       padding-bottom: 7px;
+      margin-bottom: 35px;
     }
   }
     @media (min-width: 376px) and (max-width : 425px)
@@ -521,6 +519,7 @@ body{
     }
     .identifier-2{
       padding-bottom: 7px;
+      margin-bottom: 35px;
     }
   }
   @media (min-width: 426px) and (max-width : 768px){
@@ -567,4 +566,8 @@ body{
 
   .video-thumbnail{
     position: relative;
+  }
+
+  .youtube-body{
+    padding-bottom: 50px;
   }
